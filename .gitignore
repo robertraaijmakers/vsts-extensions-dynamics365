@@ -5,6 +5,7 @@
 
 # BuildTasks
 BuildTasks/*
+sdk/*
 *.vsix
 
 # User-specific files
