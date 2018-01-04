@@ -27,10 +27,10 @@
   },
   "links": {
     "getstarted": {
-      "uri": "https://robertraaijmakers.visualstudio.com/vsts-extensions-dynamics365/wiki/"
+      "uri": "https://github.com/robertraaijmakers/vsts-extensions-dynamics365/wiki/"
     },
     "support": {
-      "uri": "https://github.com/robertraaijmakers/vsts-extensions-dynamics365/wiki/"
+      "uri": "https://github.com/robertraaijmakers/vsts-extensions-dynamics365/"
     },
     "repository": {
       "uri": "https://robertraaijmakers.visualstudio.com/vsts-extensions-dynamics365/"
