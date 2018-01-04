@@ -3,9 +3,14 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
-# BuildTasks
+# Exclude all folders that have something to do with code
 BuildTasks/*
+robert.vsts.powershell/*
+robert.vsts.powershell.tests/*
+robert.vsts.buildtaskscripts/*
 sdk/*
+TestResults/*
+*.sln
 *.vsix
 
 # User-specific files
